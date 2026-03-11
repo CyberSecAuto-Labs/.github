@@ -1,3 +1,7 @@
+<p align="center">
+<img src="../assets/logo.png" width="180">
+</p>
+
 # CyberSecAuto Labs (CSAL)
 
 CyberSecAuto Labs is an open-source initiative focused on cybersecurity automation and AI-assisted security tooling.
