@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="../assets/CSAL_logo.png" width="400">
 </p>
 
