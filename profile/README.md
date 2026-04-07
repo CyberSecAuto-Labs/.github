@@ -23,7 +23,7 @@ CSAL explores how automation and modern AI systems can improve security operatio
 > A thin, auditable bridge. Analysis and reporting belong in the agent or in higher-level platforms.
 
 
-### netaudit (coming soon)
+### [netaudit](https://github.com/CyberSecAuto-Labs/netaudit)
 
 > Network egress auditing for test execution.
 > 
