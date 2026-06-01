@@ -56,7 +56,6 @@ We build practical tools that help humans make better decisions through automati
 >
 > Security decisions remain deterministic, transparent, and reviewable.
 
----
 
 ## Research Focus
 
@@ -67,7 +66,6 @@ We build practical tools that help humans make better decisions through automati
 - Local-first AI workflows
 - Machine-readable security data pipelines
 
----
 
 ## Philosophy
 
