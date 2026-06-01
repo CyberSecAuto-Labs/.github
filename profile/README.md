@@ -34,7 +34,7 @@ We build practical tools that help humans make better decisions through automati
 >
 > Make network behavior explicit, testable, and auditable.
 
-### [aimd](https://github.com/CyberSecAuto-Labs/aimd)
+### [aimd](https://github.com/CyberSecAuto-Labs/aimd) (🚧 WIP)
 
 > Manage AI context files (CLAUDE.md, AGENTS.md, .cursor/rules) as private overlays that stay out of your project repository.
 >
