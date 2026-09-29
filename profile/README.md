@@ -29,7 +29,7 @@ We build practical tools that help humans make better decisions through automati
 > Define allowed outbound connections, run your tests, and get a clear pass/fail report.
 >
 > - Detect unintended external calls
-> - Prevent data exfiltration during execution
+> - Flag potential data exfiltration
 > - Enforce network behavior policies in CI/CD
 >
 > Make network behavior explicit, testable, and auditable.
